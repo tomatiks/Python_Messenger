@@ -18,7 +18,7 @@ def test_json_request_without_user():
 
 
 
-def test_json_request_more_than_15_char():
+def test_json_requestt_more_than_15_char():
     with pytest.raises(ValueError):
         client.create_json_request_msg('ttdhdhsdhdshsdhhdsdhs')
 
