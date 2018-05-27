@@ -1,0 +1,7 @@
+{
+  "pytest_cs.py::test_json_request": true,
+  "test_client.py::test_recieve_msg_400": true,
+  "test_server.py::test_json_request_more_than_15_char": true,
+  "test_server.py::test_json_request_not_none": true,
+  "test_server.py::test_json_request_presence": true
+}
