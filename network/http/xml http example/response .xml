@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<envelope>
+    <startline>
+        <method>GET</method>
+        <code>200</code>
+        <version>HTTP/1.1</version>
+    </startline>
+    <headers>
+        <header name="Date">Wed, 11 Feb 2009 11:20:59 GMT</header>
+        <header name="Server">SocketServer (Ubuntu16) Python/3.5</header>
+        <header name="Content-Type">text/plain; charset=utf-8</header>
+        <header name="Content-Language">ru</header>
+        <header name="Last-Modified">Wed, 11 Feb 2009 11:20:59 GMT</header>
+    </headers>
+    <body>
+        Some response message text
+    </body>
+</envelope>

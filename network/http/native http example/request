@@ -1,0 +1,7 @@
+GET localhost:8000/echo HTTP/1.1
+
+Host: localhost
+Accept: text/plain
+User-Agent: python client
+
+Some request message text

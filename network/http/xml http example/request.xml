@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<envelope>
+    <startline>
+        <method>GET</method>
+        <uri>localhost:8000/echo</uri>
+        <version>HTTP/1.1</version>
+    </startline>
+    <headers>
+        <header name="Host">localhost</header>
+        <header name="Accept">text/plain</header>
+        <header name="User-Agent">python client</header>
+    </headers>
+    <body>
+        Some request message text
+    </body>
+</envelope>

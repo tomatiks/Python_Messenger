@@ -1,0 +1,9 @@
+GET 200 HTTP/1.1
+
+Date: Wed, 11 Feb 2009 11:20:59 GMT
+Server: SocketServer
+Content-Type: text/plain; charset=utf-8
+Content-Language: ru
+Last-Modified: Wed, 11 Feb 2009 11:20:59 GMT
+
+Some response message text

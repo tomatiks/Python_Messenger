@@ -1,0 +1,4 @@
+{
+  "tests/test_clientresponse.py::test_action": true,
+  "tests/test_serverrequest.py::test_action": true
+}
